@@ -35,10 +35,12 @@ Actividad02-Algoritmos-Geneticos-ML/
 ## Instalación y Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO_GITHUB>
-   cd Actividad02-Algoritmos-Geneticos-ML
+   git clone https://github.com/JoseChavez15/Algoritmos-Geneticos-ML.git
+   cd Algoritmos-Geneticos-ML
    ```
 2. Instalar dependencias:
-   ```bash   pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
    ```
 3. Ejecutar los cuadernos ubicados dentro de la carpeta `notebooks/`.
+
