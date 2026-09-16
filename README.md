@@ -1,7 +1,8 @@
 # Actividad 02: Algoritmos Genéticos en Machine Learning
 
-**Asignatura:** Aprendizaje de Máquina (IX Ciclo - Grupo B)
-**Institución:** Universidad Nacional del Altiplano - Puno
+**Aprendizaje de Máquina (IX Ciclo)**
+**Universidad Nacional del Altiplano - Puno**
+**Escuela Profesional de Ingeniería de Sistemas**
 **Fecha de Entrega:** 16/09/2026
 
 ## Objetivo
