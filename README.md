@@ -30,7 +30,7 @@ Actividad02-Algoritmos-Geneticos-ML/
 │   └── 03_neuroevolution.ipynb        # Ejemplo 3 (Integrante 4)
 │
 └── docs/
-    └── Resumen_Ejecutivo_GrupoB.pdf   # Resumen ejecutivo en PDF (Máximo 2 páginas)
+    └── Resumen_Ejecutivo_GrupoRendo.pdf   # Resumen ejecutivo en PDF (Máximo 2 páginas)
 ```
 
 ## Instalación y Ejecución
